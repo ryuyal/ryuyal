@@ -17,7 +17,7 @@
   - 😄 Motto: The best time to plant a tree was 10 years ago. The second best time is now.
   - 📫 [Email](mailto:<helloliu777@163.com>)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuyal)](https://github.com/anuraghazra/github-readme-stats)  
+[![RyuYal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuyal)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuyal)](https://github.com/anuraghazra/github-readme-stats)
 
