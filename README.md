@@ -13,7 +13,7 @@
 ## About me
   - 🌱 Computer Science 
   - 📖 Hsiao-Tung Fei，Hannah Arendt
-  - 🌟 Tennis:🎾→(👧Elena Rybakina, 👦Carlos Alcaraz)
+  - 🌟 Tennis:🎾→(👧Elena Rybakina, Qinwen Zheng 👦Carlos Alcaraz)
   - 😄 Motto: The best time to plant a tree was 10 years ago. The second best time is now.
   - 📫 [Email](mailto:<helloliu777@163.com>)
 
