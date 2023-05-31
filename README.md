@@ -27,7 +27,7 @@
 <!-- [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) -->
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff) -->
 
-
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 [![RyuYal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuyal&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuyal&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
