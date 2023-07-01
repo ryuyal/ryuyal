@@ -14,7 +14,7 @@
   - 🌱 Computer Science 
   - 📖 Hsiao-Tung Fei，Hannah Arendt
   - 🌟 Tennis:🎾→(👧Elena Rybakina 👦Carlos Alcaraz)
-  - 😄 Motto: The best time to plant a tree was 10 years ago. The second best time is now.
+  - 😄 Motto: The best time to plant a tree was 10 years ago. The second best time is **NOW!**
   - 📫 [Email](mailto:<helloliu777@163.com>)
   
 <!-- - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) -->
